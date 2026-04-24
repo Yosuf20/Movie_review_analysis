@@ -39,13 +39,14 @@ A **Logistic Regression** model is used for classification:
 ---
 
 ### 🔹 4. Model Evaluation
-The model is evaluated using:
-- Accuracy
-- Precision
-- Recall
-- F1-score
+The Model got
+- Accuracy of 88%
+- Precision of 88%
 
 ---
+## 🚀 Model Deployment
+The model is deployed and accessible here:  
+👉 https://movie-review-analysis-stk5.onrender.com/
 
 ## 🛠️ Tech Stack
 - Python
@@ -59,7 +60,6 @@ The model is evaluated using:
 ## 📂 Project Structure
 ```
 movie-review-classification/
-│── data/                # Dataset
 │── notebooks/           # Jupyter notebooks
 │── src/                 # Source code
 │── model/               # Saved model
